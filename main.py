@@ -1,3 +1,5 @@
+# A basic program to play a slot machine game.
+
 import random
 
 MAX_LINES = 3
